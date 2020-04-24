@@ -14,7 +14,7 @@
 	   		
 			"type": "Microsoft.Storage/storageAccounts",
 			"apiVersion": "2019-06-01",
-			"name": "zsdeerxio01",
+			"name": "zsdeerxio1",
 			
 			"location": "eastus", 
                 
